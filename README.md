@@ -1,6 +1,6 @@
 ## AimMaster - Aim Trainer Game
 
-**AimMaster** is an engaging and challenging aim trainer game designed to improve your targeting skills. Perfect for gamers and anyone looking to enhance their precision and reaction time, AimMaster 3000 provides an interactive way to practice your aim in a fun and competitive environment.
+**AimMaster** is an engaging and challenging aim trainer game designed to improve your targeting skills. Perfect for gamers and anyone looking to enhance their precision and reaction time, AimMaster provides an interactive way to practice your aim in a fun and competitive environment.
 
 ### Features
 
@@ -15,7 +15,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/aimmaster.git
+   git clone https://github.com/lazy-taurus/aimmaster.git
    ```
 
 2. **Navigate to the Project Directory:**
